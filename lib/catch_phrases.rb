@@ -14,3 +14,4 @@ def link
   puts exclaim
 end
 
+def any_phrase
